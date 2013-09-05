@@ -1,0 +1,2 @@
+emailcomposer-phonegap-plugin
+=============================
